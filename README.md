@@ -212,6 +212,9 @@ revest-assignment/
 │           └── utils/
 │               └── storage.ts
 └── README.md
+|___ package.json
+|___ .gitignore
+
 ```
 
 ---
